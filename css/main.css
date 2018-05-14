@@ -2,7 +2,7 @@
 	box-sizing: border-box;
 }
 body{
-	background:url(../img/SanFrancisco.jpg) center center;
+	background:url(../img/SanFrancisco.jpg)no-repeat center center;
 	background-size: cover;
 	height: 100%;
 	padding-top: 50px;
